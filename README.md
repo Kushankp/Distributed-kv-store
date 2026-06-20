@@ -1,5 +1,3 @@
-# distributed-kv-store
-
 An HTTP-based distributed key-value store written in Go. It supports consistent hashing, leader-follower replication, write-ahead logging, snapshots, health tracking, configurable write consistency, structured logs, and metrics.
 
 ## Architecture
